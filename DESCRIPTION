@@ -1,0 +1,27 @@
+Package: spatstat.1d
+Type: Package
+Title: Spatial point pattern analysis in one dimension
+Version: 1.0
+Date: 2019-12-05
+Authors@R: c(
+    person(given = "Ege",
+           family = "Rubak",
+           role = c("aut", "cre"),
+           email = "rubak@math.aau.dk",
+           comment = c(ORCID = "0000-0002-6675-533X")),
+    person(given = "Ottmar",
+           family = "Cronie",
+           role = c("aut"),
+           email = "ottmar.cronie@umu.se",
+           comment = c(ORCID = "0000-0002-6721-8608")))
+Maintainer: Ege Rubak <rubak@math.aau.dk>
+Description: Implements some standard spatstat functionality to the simple case of point patterns in one dimension, that is, on a single segment of the real line.
+License: GPL-3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.1.1
+Depends: 
+    R (>= 3.3.0),
+    spatstat
+Suggests: 
+    tinytest

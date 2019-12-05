@@ -8,6 +8,14 @@
 \description{
 Implements some standard spatstat functionality to the simple case of point patterns in one dimension, that is, on a single segment of the real line.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/rubak/spatstat.1d}
+  \item Report bugs at \url{https://github.com/rubak/spatstat.1d/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: Ege Rubak \email{rubak@math.aau.dk} (0000-0002-6675-533X)
 

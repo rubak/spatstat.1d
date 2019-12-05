@@ -25,3 +25,5 @@ Depends:
     spatstat
 Suggests: 
     tinytest
+URL: https://github.com/rubak/spatstat.1d
+BugReports: https://github.com/rubak/spatstat.1d/issues
